@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/phoneEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="输入手机号"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/emailEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="输入邮箱"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/pwdEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="输入密码"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/pwdConfirmEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="确认密码"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/validateBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开始验证" />
+
+
+</LinearLayout>

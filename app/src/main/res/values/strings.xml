@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FormValidateDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">邮箱错啦</string>
+</resources>
