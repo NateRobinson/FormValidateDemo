@@ -62,8 +62,7 @@
     }
     });
     }
-# 二、MaterialEditText开源库的使用
----
+## 二、MaterialEditText开源库的使用
 ## 简介与库地址
 >其实在AppCompat V21中就提供了Material Design的控件外观支持，其中就有一个EditText，但是此EditText使用起来不是很方便，
 才有了MaterialEditText开源库的诞生，下面就随我一起来学习一下此开源库的使用。
