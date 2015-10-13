@@ -63,13 +63,13 @@
     });
     }
 ## 二、MaterialEditText开源库的使用
-## 简介与库地址
->其实在AppCompat V21中就提供了Material Design的控件外观支持，其中就有一个EditText，但是此EditText使用起来不是很方便，
-才有了MaterialEditText开源库的诞生，下面就随我一起来学习一下此开源库的使用。
 
 >【开源库地址：[https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText "https://github.com/rengwuxian/MaterialEditText")】
 
-## MaterialEditText的配置属性详解
+>其实在AppCompat V21中就提供了Material Design的控件外观支持，其中就有一个EditText，但是此EditText使用起来不是很方便，
+才有了MaterialEditText开源库的诞生，下面就随我一起来学习一下此开源库的使用。
+
+## MaterialEditText的配置属性详解：
 1. 代码中使用setEnabled(boolean enabled)方法设置MaterialEditText是否为可编辑状态；
 2. 悬浮的标签（Floating Label）：
 	1. app:met_floatingLabel="normal"：低亮的悬浮标签；
