@@ -1,4 +1,4 @@
-# 安卓表单输入验证开源库系统学习Demo
+# 安卓文本输入验证开源库系统学习Demo
 ## 一、Android Validate  表单验证开源库使用
 > 【开源库地址：[https://github.com/throrin19/Android-Validator](https://github.com/throrin19/Android-Validator "https://github.com/throrin19/Android-Validator")】
 > 
