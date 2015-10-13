@@ -15,7 +15,7 @@ import com.throrinstudio.android.common.libs.validator.validator.NotEmptyValidat
 import com.throrinstudio.android.common.libs.validator.validator.PhoneValidator;
 
 /**
- * Created by Nate on 2015/10/10.
+ * Created by Nate on 2015/10/10.Validator开源库使用示例
  */
 public class ValidatorActivity extends AppCompatActivity {
 

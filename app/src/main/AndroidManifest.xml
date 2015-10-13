@@ -19,7 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".ValidatorActivity"></activity>
-        <activity android:name=".MaterialEditTextActivity"></activity>
+        <activity
+            android:name=".MaterialEditTextActivity"
+            android:windowSoftInputMode="stateHidden"></activity>
     </application>
 
 </manifest>

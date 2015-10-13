@@ -11,7 +11,7 @@ import com.rengwuxian.materialedittext.MaterialEditText;
 import com.rengwuxian.materialedittext.validation.RegexpValidator;
 
 /**
- * Created by Nate on 2015/10/12.
+ * Created by Nate on 2015/10/12. MaterialEditText开源库使用示例
  */
 public class MaterialEditTextActivity extends AppCompatActivity {
 
@@ -20,7 +20,6 @@ public class MaterialEditTextActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.material_edittext_layout);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowTitleEnabled(false);
         initEnableBt();
         initSingleLineEllipsisEt();
         initSetErrorEt();
